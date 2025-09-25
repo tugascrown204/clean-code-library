@@ -12,3 +12,6 @@
 - ### Java
   - Follow Java Naming Conventions.
   - Make use of Java 8 features like Streams for cleaner data processing.
+- ### TypeScript
+  - Use interfaces to define object shapes.
+  - Prefer `const` and `let` over `var` for variable declarations.
