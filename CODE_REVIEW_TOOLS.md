@@ -3,4 +3,4 @@
 ## Tools
 - **ESLint**: A tool for identifying and fixing problems in JavaScript and TypeScript, ensuring code quality.
 - **Pylint**: A source code analyzer for Python, enforcing coding standards.
-- **SonarQube**: A platform for continuous inspection of code quality to perform automatic reviews, including bug detection, vulnerability identification, and code smells.
+- **SonarQube**: A platform for continuous inspection of code quality, enabling automated reviews that detect bugs, identify vulnerabilities, and highlight code smells.
