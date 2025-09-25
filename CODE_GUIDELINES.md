@@ -15,3 +15,6 @@
 - ### TypeScript
   - Use interfaces to define object shapes.
   - Prefer `const` and `let` over `var` for variable declarations.
+- ### JavaScript
+  - Follow ES6 syntax for modern JavaScript code.
+  - Use async/await for handling asynchronous operations.
