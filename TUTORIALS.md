@@ -14,3 +14,6 @@
 
 ## Version Control Best Practices
 - Gain insights into using version control systems effectively, including branching strategies and commit guidelines.
+
+## Documentation Best Practices
+- Understand the importance of clear and concise documentation, and learn techniques for writing effective documentation.
