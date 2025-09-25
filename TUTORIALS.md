@@ -11,3 +11,6 @@
 
 ## Testing Best Practices
 - Explore essential practices for writing and maintaining effective tests, ensuring software reliability and quality.
+
+## Version Control Best Practices
+- Gain insights into using version control systems effectively, including branching strategies and commit guidelines.
