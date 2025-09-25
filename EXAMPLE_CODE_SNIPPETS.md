@@ -2,10 +2,12 @@
 
 ## Python Snippet
 ```python
-def calculate_area(radius):
-    return 3.14 * radius ** 2
+import math
 
-print(calculate_area(5))  # Output: 78.5
+def calculate_area(radius):
+    return math.pi * radius ** 2
+
+print(calculate_area(5))  # Output: 78.53981633974483
 ```
 
 ## Java Snippet
