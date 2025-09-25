@@ -8,3 +8,6 @@
 
 ## Code Review Best Practices
 - Discover effective strategies for conducting code reviews and providing constructive feedback.
+
+## Testing Best Practices
+- Explore essential practices for writing and maintaining effective tests, ensuring software reliability and quality.
