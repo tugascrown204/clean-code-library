@@ -17,3 +17,4 @@
 
 ## Documentation Best Practices
 - Understand the importance of clear and concise documentation, and learn techniques for writing effective documentation.
+
